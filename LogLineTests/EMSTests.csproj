@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Logline\Logline.csproj" />
+    <ProjectReference Include="..\Logline\EMSCMD.csproj" />
   </ItemGroup>
 
 </Project>
